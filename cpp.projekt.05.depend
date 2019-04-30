@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1528286907 source:c:\users\desktop\documents\cpp.projekt.05\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"klasy.h"
+
+1528287853 c:\users\desktop\documents\cpp.projekt.05\klasy.h
+	<iostream>
+	<string>
+
+1528201277 source:c:\users\desktop\documents\cpp.projekt.05\wczytywaniezpliku.cpp
+	<iostream>
+	<fstream>
+	"klasy.h"
+
+1528287873 source:c:\users\desktop\documents\cpp.projekt.05\menu.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"klasy.h"
+
+1528287611 source:c:\users\desktop\documents\cpp.projekt.05\odpowiedz.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	<ctime>
+	"klasy.h"
+
+1528286907 source:c:\users\desktop\documents\cpp.projekt.05_2\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"klasy.h"
+
+1528287853 c:\users\desktop\documents\cpp.projekt.05_2\klasy.h
+	<iostream>
+	<string>
+
+1528290253 source:c:\users\desktop\documents\cpp.projekt.05_2\menu.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"klasy.h"
+
+1528291392 source:c:\users\desktop\documents\cpp.projekt.05_2\odpowiedz.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	<ctime>
+	"klasy.h"
+
+1528201277 source:c:\users\desktop\documents\cpp.projekt.05_2\wczytywaniezpliku.cpp
+	<iostream>
+	<fstream>
+	"klasy.h"
+
+1528453551 source:c:\users\desktop\documents\cpp.projekt.05_3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"klasy.h"
+
+1528453551 c:\users\desktop\documents\cpp.projekt.05_3\klasy.h
+	<iostream>
+	<string>
+
+1528383874 source:c:\users\desktop\documents\cpp.projekt.05_3\menu.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"klasy.h"
+
+1528453366 source:c:\users\desktop\documents\cpp.projekt.05_3\odpowiedz.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	<ctime>
+	"klasy.h"
+
+1528201277 source:c:\users\desktop\documents\cpp.projekt.05_3\wczytywaniezpliku.cpp
+	<iostream>
+	<fstream>
+	"klasy.h"
+
